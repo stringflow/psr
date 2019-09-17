@@ -2,8 +2,8 @@
 |  ------------------  |  ------------------  |
 |  N/A                 |  Oak's Lab           |
 |  Pallet Town         |  N/A                 |
-|  Blues House         |  iridian City        |
-|  N/A                 |  /A                  |
+|  Blues House         |  Viridian City       |
+|  N/A                 |  N/A                 |
 |  Pewter City         |  Route 3             |
 |  Route 4             |  N/A                 |
 |  Viridian Gym        |  Pewter Gym          |
